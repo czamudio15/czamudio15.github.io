@@ -1,3 +1,3 @@
-## Cesar Zamudio's Personal Website
+# Cesar Zamudio's Personal Website
 
-# © 2023 Cesar Zamudio
+## © 2023 Cesar Zamudio
