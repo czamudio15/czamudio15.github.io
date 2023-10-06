@@ -10,7 +10,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 704px;
-  background-image: url("images/Cesar_senior_portraits_22.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_1855521341/images/Cesar_senior_portraits_22.jpg?rand=0ead");
   background-position: 50% 50%;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 778px;
+  min-height: 808px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -29,23 +29,27 @@
 .u-section-1 .u-text-1 {
   font-size: 5rem;
   line-height: 1;
-  font-weight: 400;
-  margin: 123px 74px 0 0;
+  margin: 37px 24px 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 1.5rem;
   letter-spacing: 1px;
   text-transform: none;
-  margin: 20px auto 0 0;
+  margin: 30px auto 0 0;
 }
 
 .u-section-1 .u-text-3 {
-  margin: 24px 0 0;
+  margin: 39px 0 0;
+}
+
+.u-section-1 .u-group-elements-1 {
+  min-height: 149px;
+  margin: 11px auto 0;
 }
 
 .u-section-1 .u-text-4 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-1 .u-icon-1 {
@@ -80,7 +84,7 @@
   border-style: none;
   text-transform: uppercase;
   font-weight: 600;
-  margin: 30px 175px 0 0;
+  margin: 30px 132px 0 0;
   padding: 14px 73px 15px 71px;
 }
 
@@ -91,21 +95,16 @@
 
 .u-section-1 .u-social-icons-1 {
   white-space: nowrap;
-  height: 24px;
+  height: 57px;
   min-height: 16px;
-  width: 58px;
-  min-width: 42px;
-  margin: 30px auto 0 0;
+  width: 57px;
+  min-width: 16px;
+  margin: 30px auto 0 207px;
 }
 
 .u-section-1 .u-icon-4 {
   height: 100%;
   color: rgb(0, 122, 185) !important;
-}
-
-.u-section-1 .u-icon-5 {
-  height: 100%;
-  color: rgb(197, 54, 164) !important;
 }
 
 @media (max-width: 1199px) {
@@ -122,7 +121,7 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 642px;
+    min-height: 666px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -132,16 +131,12 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 4.25rem;
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-3 {
-    margin-right: 75px;
-  }
-
-  .u-section-1 .u-icon-3 {
-    color: rgb(194, 98, 175) !important;
+  .u-section-1 .u-group-elements-1 {
+    margin-right: initial;
+    margin-left: initial;
   }
 }
 
@@ -164,14 +159,6 @@
 
   .u-section-1 .u-container-layout-2 {
     padding: 30px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 3.4375rem;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-right: 5px;
   }
 }
 
@@ -196,10 +183,6 @@
   .u-section-1 .u-container-layout-2 {
     padding: 50px;
   }
-
-  .u-section-1 .u-text-1 {
-    font-size: 3.75rem;
-  }
 }
 
 @media (max-width: 575px) {
@@ -220,36 +203,28 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3rem;
-  }
-
-  .u-section-1 .u-btn-3 {
-    padding-right: 51px;
-    padding-left: 49px;
-    margin-right: 0;
+    font-size: 1.875rem;
   }
 } .u-section-2 {
   background-image: none;
-  min-height: 658px;
+  min-height: 1919px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 4.0625rem;
   line-height: 1;
-  font-family: Oswald, sans-serif;
-  font-weight: 400;
   margin: 60px auto 0;
 }
 
 .u-section-2 .u-text-2 {
-  width: 740px;
   font-style: italic;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
+  width: 827px;
   margin: 28px auto 0;
 }
 
 .u-section-2 .u-gallery-1 {
-  height: 417px;
+  height: 1668px;
   margin-top: 60px;
   margin-bottom: 0;
   grid-gap: 17px 17px;
@@ -265,9 +240,17 @@
   padding: 20px;
 }
 
+.u-section-2 .u-back-image-2 {
+  object-position: 27.15% 50%;
+}
+
 .u-section-2 .u-over-slide-2 {
   background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
   padding: 20px;
+}
+
+.u-section-2 .u-back-image-3 {
+  object-position: 77.47% 50%;
 }
 
 .u-section-2 .u-over-slide-3 {
@@ -275,19 +258,84 @@
   padding: 20px;
 }
 
+.u-section-2 .u-back-image-4 {
+  object-position: 13.15% 50%;
+}
+
+.u-section-2 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-8 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-9 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-10 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-11 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-12 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
+.u-section-2 .u-gallery-item-13 {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-over-slide-13 {
+  background-image: linear-gradient(0deg, rgba(1,114,178,1), rgba(1,114,178,1));
+  padding: 20px;
+}
+
 @media (max-width: 1199px) {
    .u-section-2 {
-    min-height: 1174px;
+    min-height: 1273px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-family: Montserrat, sans-serif;
+    font-weight: normal;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 344px;
+    height: 1375px;
   }
 }
 
 @media (max-width: 991px) {
    .u-section-2 {
-    min-height: 2053px;
+    min-height: 2217px;
   }
 
   .u-section-2 .u-text-2 {
@@ -295,7 +343,7 @@
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 790px;
+    height: 2370px;
   }
 
   .u-section-2 .u-gallery-inner-1 {
@@ -305,7 +353,7 @@
 
 @media (max-width: 767px) {
    .u-section-2 {
-    min-height: 5181px;
+    min-height: 5576px;
   }
 
   .u-section-2 .u-text-2 {
@@ -313,7 +361,7 @@
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 1778px;
+    height: 7110px;
   }
 
   .u-section-2 .u-gallery-inner-1 {
@@ -323,7 +371,7 @@
 
 @media (max-width: 575px) {
    .u-section-2 {
-    min-height: 3341px;
+    min-height: 3600px;
   }
 
   .u-section-2 .u-text-1 {
@@ -335,6 +383,6 @@
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 1119px;
+    height: 4477px;
   }
 }
